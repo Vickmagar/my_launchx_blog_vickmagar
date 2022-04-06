@@ -7,15 +7,8 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Mi nombre es Victor y tengo 39 años, soy estudiante en Diseño de Software y Redes.
+Me gusta cuidar a los animales, difruto ver las carreras de formula 1 y me apasiona 
+crear prototipos y estar innovando.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+![](https://github.com/Vickmagar/my_launchx_blog_vickmagar/blob/master/content/pages/img/vic.jpg?raw=true)
