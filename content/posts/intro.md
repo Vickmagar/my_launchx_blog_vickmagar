@@ -10,4 +10,5 @@ La cultura de de un profesional del Desarrollo de Software debe cubrir al menos 
 - **Confianza** de nuestra parte a clientes y asociados, como de ellos a nosotros, buscando de esta manera trabajar con base en la verdad, y evitar perder en tiempo en sobre-analizar las intenciones de los otros.
 - **Dedicación** para mantener de manera constante nuestras habilidades y ofrecer en todo momento el mejor trabajo que posible.
 - **Esfuerzo** para mantener en practica esta cultura y las personales, en busca de ser un mejor profesional cada día.
-Esto representa la base sobre la que podemos establecer otros puntos que necesitemos de manera personal.
+
+
