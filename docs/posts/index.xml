@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vickmagar.github.io/my_launchx_blog_vickmagar/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Back-End Programacion en JS</title>
+      <link>https://vickmagar.github.io/my_launchx_blog_vickmagar/posts/post_1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vickmagar.github.io/my_launchx_blog_vickmagar/posts/post_1/</guid>
+      <description>#Backend
+Es un los sistema corporativo que se utilizan para dirigir una web o empresa, tales como sistemas de gestión de pedidos, inventario y procesamiento de suministro. Este sistema recoge información de los usuarios u otros sistemas de tratamiento de datos en la compañía. Es el encargado de gestionar la información que proporciona el usuario recogida por el sitio web.
+Un sistema de backend es cualquier sistema que soporta aplicaciones de “back office”.</description>
+    </item>
+    
+    <item>
       <title>La Cultura de un Desarrollador de Software</title>
       <link>https://vickmagar.github.io/my_launchx_blog_vickmagar/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
