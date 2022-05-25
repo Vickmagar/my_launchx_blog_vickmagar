@@ -5,7 +5,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 
 La cultura de de un profesional del Desarrollo de Software debe cubrir al menos lo siguiente:
-![Header](https://github.com/Vickmagar/vickmagar/blob/main/Profile2.gif)
+![banner](https://github.com/Vickmagar/vickmagar/blob/main/Profile2.gif)
 - **Honestidad** que permita saber a nuestros colaboradores y clientes que nuestra palabra tiene valor y en ningun momento se buscará sacar probecho propio a costa de otros.
 - **Confianza** de nuestra parte a clientes y asociados, como de ellos a nosotros, buscando de esta manera trabajar con base en la verdad, y evitar perder en tiempo en sobre-analizar las intenciones de los otros.
 - **Dedicación** para mantener de manera constante nuestras habilidades y ofrecer en todo momento el mejor trabajo que posible.
