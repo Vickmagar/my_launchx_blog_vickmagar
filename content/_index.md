@@ -2,6 +2,7 @@
 title: Launch X Bitácora de viaje
 description: Adelante con Esfuerzo La Pm
 ---
+![](https://github.com/Vickmagar/vickmagar/blob/main/Profile2.gif)
 
 Hola ✌️  soy el explorer Vickmagar y este es mi blog personal donde compartiré mis aventuras de Launch X.
 
