@@ -12,3 +12,4 @@ Me gusta cuidar a los animales, difruto ver las carreras de formula 1 y me apasi
 crear prototipos y estar innovando.
 
 ![](https://github.com/Vickmagar/my_launchx_blog_vickmagar/blob/master/content/pages/img/vic.jpg?raw=true)
+![](https://github.com/Vickmagar/vickmagar/blob/main/Profile2.gif)
