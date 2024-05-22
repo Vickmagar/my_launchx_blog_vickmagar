@@ -1,6 +1,6 @@
 baseURL = "https://vickmagar.github.io/my_launchx_blog_vickmagar/"
 languageCode = "en-us"
-title = "Presentation Sample Car"
+title = "Presentation Sample"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
